@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Unbound**
-
-- 🤝 I’m looking for help with **Unbound**
-
 - 💬 Ask me about **Core Java, Advance Java, Angular**
 
 - 📫 How to reach me **salver814@gmail.com**
