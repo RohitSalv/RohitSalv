@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsalv&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsalv" /> </p>
 
-- 🔭 I’m currently working on **Unbound**
+- 🔭 I’m currently working on **AgriTrade**
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Core Java, Advance Java, Angular**
+- 💬 Ask me about **Core Java, Advance Java, Angular,React,NextJs**
 
 - 📫 How to reach me **salver814@gmail.com**
 
